@@ -1,10 +1,8 @@
 # Solution Architect
 
-26 шаблонов проектирования
-https://mcs-mail-ru.turbopages.org/mcs.mail.ru/s/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki
+[26 шаблонов проектирования](https://mcs-mail-ru.turbopages.org/mcs.mail.ru/s/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki)
 
-Обзор паттернов интеграции микросервисов
-https://www.youtube.com/watch?v=7LtRDpELj1k
+[Обзор паттернов интеграции микросервисов](https://www.youtube.com/watch?v=7LtRDpELj1k)
 
 The System Design Primer
 https://github.com/donnemartin/system-design-primer
