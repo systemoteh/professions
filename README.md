@@ -1,5 +1,4 @@
-Solution Architect
-
+# Solution Architect
 
 26 шаблонов проектирования
 https://mcs-mail-ru.turbopages.org/mcs.mail.ru/s/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki
@@ -89,8 +88,7 @@ Kafka Live Coding (Alfa Bank)
 https://cloud.mail.ru/public/ZDu8/ucBwqrWjn
 
 
-Cybersecurity
-
+# Cybersecurity
 
 «Профессия — Белый Хакер»
 https://stepik.org/course/169003/
@@ -106,9 +104,8 @@ https://www.youtube.com/@TCMSecurityAcademy
 
 
 
-Software developer
-
-#java_way
+# Software developer
+##### java_way
 
 Наиль Алишев. Java для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
@@ -166,8 +163,7 @@ https://www.jackrutorial.com/search/label/spring%20boot%20tutorial
 
 
 
-Team lead
-
+# Team lead
 
 Наставник в IT: как давать обратную связь, мотивировать и решать конфликты
 https://practicum.yandex.ru/it-mentor/
@@ -194,10 +190,7 @@ https://edu.slurm.io/courses/soft_skills_2
 https://docs.google.com/spreadsheets/d/1356uCH12Y98n0Wjyop_VZewnx45eiSGPDKExq85gh_E/edit#gid=377306836
 
 
-
-
-English
-
+# English
 
 Simpler
 https://simpler.link/
@@ -225,10 +218,3 @@ https://youtube.com/playlist?list=PL41R2vH_CL41KPVPQsEMPKVFBtRvGQrt2
 
 Skyeng Talks
 https://skyeng.ru/talks/?utm_source=main_adults&utm_medium=banner&utm_campaign=ak
-
-
-
-
-
-
-
