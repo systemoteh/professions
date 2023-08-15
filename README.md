@@ -20,64 +20,48 @@
 
 [Наш код. Ремесло, профессия, искусство](https://www.chitai-gorod.ru/catalog/book/1188308/)
 
-Разработчик, или от Мидла до Сеньора
-https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=
+[Разработчик, или от Мидла до Сеньора](https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=)  
 
-Вечерняя школа Слёрм по Кубернетес
-https://www.youtube.com/watch?v=Jp866ltZBSk&list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6
+[Вечерняя школа Слёрм по Кубернетес](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)  
+[Открытая вечерняя школа. Kubernetes для разработчиков (Осень 2021)](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-)  
+[slurm.io kubernetes-for-developers-school](https://slurm.io/kubernetes-for-developers-school)  
+[Slurmio github](https://github.com/Slurmio/school-dev-k8s)  
 
-Открытая вечерняя школа. Kubernetes для разработчиков
-https://www.youtube.com/watch?v=Mw_rEH2pElw&list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K
-https://slurm.io/kubernetes-for-developers-school
-https://github.com/Slurmio/school-dev-k8s
+[Kubernetes для пользователей](https://stepik.org/course/99188/info)  
 
-Kubernetes для пользователей
-https://stepik.org/course/99188/info
+[YoDo. Чат-бот - учитель. Научит Linux и DevOPS](https://yodo.im/#courses)  
 
-YoDo. Чат-бот - учитель. Научит Linux и DevOPS
-https://yodo.im/#courses
+[Высоконагруженные приложения. Программирование, масштабирование, поддержка (pdf+epub)](https://www.litres.ru/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirov-39100996/)  
 
-Высоконагруженные приложения. Программирование, масштабирование, поддержка (pdf+epub)
-https://www.litres.ru/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirov-39100996/
+[System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)  
 
-System Design Interview – An insider's guide
-https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
+[Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/company/oleg-bunin/blog/309330/)  
 
-Масштабирование базы данных через шардирование и партиционирование
-https://habr.com/ru/company/oleg-bunin/blog/309330/
+[Архитектор высоких нагрузок](https://rebrainme.com/highload/?utm_medium=cpc&utm_source=yandex&utm_campaign=search_wsplanet%7C44541559&utm_term=высоконагруженные%20приложения&utm_content=4710236612&placement=none&yclid=6922368541419164666)  
 
-Архитектор высоких нагрузок
-https://rebrainme.com/highload/?utm_medium=cpc&utm_source=yandex&utm_campaign=search_wsplanet%7C44541559&utm_term=высоконагруженные%20приложения&utm_content=4710236612&placement=none&yclid=6922368541419164666
+[Bootstrap project to work with microservices using Java](https://github.com/apssouza22/java-microservice/blob/master/README.md#bootstrap-project-to-work-with-microservices-using-java)  
 
-Bootstrap project to work with microservices using Java
-https://github.com/apssouza22/java-microservice/blob/master/README.md#bootstrap-project-to-work-with-microservices-using-java
+[Oracle SQL and PL/SQL Optimization for Developers](https://oracle.readthedocs.io/en/latest/index.html)  
 
-Oracle SQL and PL/SQL Optimization for Developers
-https://oracle.readthedocs.io/en/latest/index.html
+[Slurm](https://edu.slurm.io/)  
 
-Slurm
-https://edu.slurm.io/
+[StringConcat](https://howto.stringconcat.com/#courses)  
 
-StringConcat
-https://howto.stringconcat.com/#courses
+[KARPOV.COURSES SYSTEM DESIGN == ПРОЕКТИРОВАНИЕ СИСТЕМ КАК В BIG TECH КОМПАНИИ](https://karpov.courses/systemdesign)    
 
-KARPOV.COURSES SYSTEM DESIGN == ПРОЕКТИРОВАНИЕ СИСТЕМ КАК В BIG TECH КОМПАНИИ
-https://karpov.courses/systemdesign
+[Balun.Courses SYSTEM DESIGN](https://balun.courses/courses/system_design)  
 
-Balun.Courses SYSTEM DESIGN
-https://balun.courses/courses/system_design
+[Асинхронная архитектура](https://education.borshev.com/architecture)  
 
-Асинхронная архитектура
-https://education.borshev.com/architecture
+[Data Egret](https://github.com/dataegret/pg-utils)  
 
-Data Egret
-https://github.com/dataegret/pg-utils
+[PostgreSQL Professional](https://m.youtube.com/@PostgresProfessional/playlists)
+[Postgres Professional. Учебный курс «DBA1. Администрирование PostgreSQL 13. Базовый курс»](https://postgrespro.ru/education/courses/DBA1)  
+[Postgres Professional. Учебный курс «DBA2. Администрирование PostgreSQL 13. Настройка и мониторинг»](https://postgrespro.ru/education/courses/DBA2)  
+[Postgres Professional. Учебный курс «DBA3. Администрирование PostgreSQL 13. Резервное копирование и репликация»](https://postgrespro.ru/education/courses/DBA3)  
+[Postgres Professional. Учебный курс «QPT. PostgreSQL 13. Оптимизация запросов»](https://postgrespro.ru/education/courses/QPT)
 
-PostgreSQL Professional
-https://m.youtube.com/@PostgresProfessional/playlists
-
-Kafka Live Coding (Alfa Bank)
-https://cloud.mail.ru/public/ZDu8/ucBwqrWjn
+[Kafka Live Coding (Alfa Bank)](https://cloud.mail.ru/public/ZDu8/ucBwqrWjn)  
 
 
 # Cybersecurity
