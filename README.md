@@ -4,27 +4,21 @@
 
 [Обзор паттернов интеграции микросервисов](https://www.youtube.com/watch?v=7LtRDpELj1k)
 
-The System Design Primer
-https://github.com/donnemartin/system-design-primer
-https://docs.google.com/document/d/1w3qb6SS1Hycyce5Fg5mVMdzkGYXTRskSf57IoD98ZQw/edit
+[The System Design Primer 1](https://github.com/donnemartin/system-design-primer)
 
-Архитектор программного обеспечения
-https://go.skillbox.ru/education/course/software-architect
+[The System Design Primer 2](https://docs.google.com/document/d/1w3qb6SS1Hycyce5Fg5mVMdzkGYXTRskSf57IoD98ZQw/edit)
 
-AWS, Terraform, Ansible, Jenkins, Kubernetes на русском языке
-https://m.youtube.com/c/ADVIT4000/playlists
+[Архитектор программного обеспечения](https://go.skillbox.ru/education/course/software-architect) 
 
-Slurm видеокурс: AWS
-https://slurm.io/aws
+[AWS, Terraform, Ansible, Jenkins, Kubernetes на русском языке](https://m.youtube.com/c/ADVIT4000/playlists)
 
-Ultimate AWS Certified Solutions Architect Associate 2022
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/
+[Slurm видеокурс: AWS](https://slurm.io/aws)
 
-Developer To Architect: Mastering Software Architecture
-https://www.udemy.com/course/developer-to-architect
+[Ultimate AWS Certified Solutions Architect Associate 2022](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 
-Наш код. Ремесло, профессия, искусство
-https://www.chitai-gorod.ru/catalog/book/1188308/
+[Developer To Architect: Mastering Software Architecture](https://www.udemy.com/course/developer-to-architect)
+
+[Наш код. Ремесло, профессия, искусство](https://www.chitai-gorod.ru/catalog/book/1188308/)
 
 Разработчик, или от Мидла до Сеньора
 https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=
