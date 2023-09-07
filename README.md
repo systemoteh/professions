@@ -55,13 +55,20 @@
 
 [Data Egret](https://github.com/dataegret/pg-utils)  
 
-[PostgreSQL Professional](https://m.youtube.com/@PostgresProfessional/playlists)
+[PostgreSQL Professional](https://postgrespro.ru/education/courses)
 [Postgres Professional. Учебный курс «DBA1. Администрирование PostgreSQL 13. Базовый курс»](https://postgrespro.ru/education/courses/DBA1)  
 [Postgres Professional. Учебный курс «DBA2. Администрирование PostgreSQL 13. Настройка и мониторинг»](https://postgrespro.ru/education/courses/DBA2)  
 [Postgres Professional. Учебный курс «DBA3. Администрирование PostgreSQL 13. Резервное копирование и репликация»](https://postgrespro.ru/education/courses/DBA3)  
 [Postgres Professional. Учебный курс «QPT. PostgreSQL 13. Оптимизация запросов»](https://postgrespro.ru/education/courses/QPT)
+[Postgres Professional. Учебный курс «DEV1. Разработка серверной части приложений PostgreSQL 12. Базовый курс»](https://postgrespro.ru/education/courses/DEV1)   
+[Postgres Professional. Учебный курс «DEV2. Разработка серверной части приложений PostgreSQL 12. Расширенный курс»](https://postgrespro.ru/education/courses/DEV2)  
 
 [Kafka Live Coding (Alfa Bank)](https://cloud.mail.ru/public/ZDu8/ucBwqrWjn)  
+
+[Confluent. Kafka playlists](https://www.youtube.com/@Confluent/playlists)  
+[Apache Kafka Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)  
+[Kafka Streams Tutorials | Kafka Streams 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s)  
+[Kafka Connect Tutorials | Kafka Connect 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm)  
 
 
 # Cybersecurity
