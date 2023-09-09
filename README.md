@@ -22,6 +22,10 @@
 
 [Разработчик, или от Мидла до Сеньора](https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=)  
 
+[Slurm](https://edu.slurm.io/)  
+
+[Rebrain](https://rebrainme.com)  
+
 [Вечерняя школа Слёрм по Кубернетес](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)  
 [Открытая вечерняя школа. Kubernetes для разработчиков (Осень 2021)](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-)  
 [slurm.io kubernetes-for-developers-school](https://slurm.io/kubernetes-for-developers-school)  
@@ -41,9 +45,7 @@
 
 [Bootstrap project to work with microservices using Java](https://github.com/apssouza22/java-microservice/blob/master/README.md#bootstrap-project-to-work-with-microservices-using-java)  
 
-[Oracle SQL and PL/SQL Optimization for Developers](https://oracle.readthedocs.io/en/latest/index.html)  
-
-[Slurm](https://edu.slurm.io/)  
+[Oracle SQL and PL/SQL Optimization for Developers](https://oracle.readthedocs.io/en/latest/index.html)
 
 [StringConcat](https://howto.stringconcat.com/#courses)  
 
@@ -69,6 +71,16 @@
 [Apache Kafka Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)  
 [Kafka Streams Tutorials | Kafka Streams 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s)  
 [Kafka Connect Tutorials | Kafka Connect 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm)  
+
+
+
+План:
+- Сделать кластер Kafka (Kraft), настроить продюсеры и консюмеры на одно и множество сообщений
+- Написать полноценный deployment для Kubernetes
+- Посмотреть все видео [PostgreSQL Professional](https://postgrespro.ru/education/courses)
+- Прочитать книгу 
+- Пройти курс [PostgreSQL Slurm](https://edu.slurm.io/courses/PostgreSQL_demo?from=my_courses)
+
 
 
 # Cybersecurity
@@ -102,6 +114,9 @@ https://ru.hexlet.io/courses/java-basics
 
 CodingBat
 https://codingbat.com/java
+
+ProgLang
+https://proglang.su/java
 
 Наиль Алишев. Продвинутая Java
 https://swiftbook.org/courses/415/show_promo/
