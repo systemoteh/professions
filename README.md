@@ -74,15 +74,6 @@
 
 
 
-План:
-- Сделать кластер Kafka (Kraft), настроить продюсеры и консюмеры на одно и множество сообщений
-- Написать полноценный deployment для Kubernetes
-- Посмотреть все видео [PostgreSQL Professional](https://postgrespro.ru/education/courses)
-- Прочитать книгу 
-- Пройти курс [PostgreSQL Slurm](https://edu.slurm.io/courses/PostgreSQL_demo?from=my_courses)
-
-
-
 # Cybersecurity
 
 «Профессия — Белый Хакер»
