@@ -18,7 +18,7 @@
 
 [Developer To Architect: Mastering Software Architecture](https://www.udemy.com/course/developer-to-architect)
 
-[Наш код. Ремесло, профессия, искусство](https://www.chitai-gorod.ru/catalog/book/1188308/)
+[Наш код. Ремесло, профессия, искусство](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo)
 
 [Разработчик, или от Мидла до Сеньора](https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=)  
 
