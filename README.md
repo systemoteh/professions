@@ -33,6 +33,8 @@
 
 [Kubernetes для пользователей](https://stepik.org/course/99188/info)  
 
+[Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)  
+
 [YoDo. Чат-бот - учитель. Научит Linux и DevOPS](https://yodo.im/#courses)  
 
 [Высоконагруженные приложения. Программирование, масштабирование, поддержка (pdf+epub)](https://www.litres.ru/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirov-39100996/)  
