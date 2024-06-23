@@ -31,7 +31,14 @@
 [slurm.io kubernetes-for-developers-school](https://slurm.io/kubernetes-for-developers-school)  
 [Slurmio github](https://github.com/Slurmio/school-dev-k8s)  
 
-[Kubernetes для пользователей](https://stepik.org/course/99188/info)  
+[Kubernetes для пользователей](https://stepik.org/course/99188/info)
+
+[Администратор Kubernetes [Junior]](https://stepik.org/course/188289/promo)
+
+[rotoro.cloud](https://rotoro.cloud/landing.html)
+[Certified Kubernetes Administrator (CKA) + практический опыт](https://rotoro.cloud/ld-courses/certified-kubernetes-administrator-cka-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)
+[Certified Kubernetes Application Developer (CKAD) + практический опыт](https://rotoro.cloud/ld-courses/certified-kubernetes-application-developer-ckad-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)
+[Certified Kubernetes Security Specialist (CKS) + практический опыт](https://rotoro.cloud/ld-courses/certified-kubernetes-security-specialist-cks-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)
 
 [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)  
 
