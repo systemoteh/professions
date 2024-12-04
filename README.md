@@ -74,6 +74,11 @@
 [Postgres Professional. Учебный курс «DEV1. Разработка серверной части приложений PostgreSQL 12. Базовый курс»](https://postgrespro.ru/education/courses/DEV1)   
 [Postgres Professional. Учебный курс «DEV2. Разработка серверной части приложений PostgreSQL 12. Расширенный курс»](https://postgrespro.ru/education/courses/DEV2)  
 
+[Cluster Postgres](https://www.youtube.com/playlist?list=PLprvDkBQwz6awbdy8uLuAuYn883BbqMGE)
+[Построение отказоустойчивого кластера PostgreSQL](https://its.1c.ru/db/metod8dev/content/5971/hdoc)
+
+[HA-cluster](https://www.youtube.com/playlist?list=PLprvDkBQwz6ZZPwKwPzZGmveKQ5weIe_r)
+
 [Kafka Live Coding (Alfa Bank)](https://cloud.mail.ru/public/ZDu8/ucBwqrWjn)  
 
 [Confluent. Kafka playlists](https://www.youtube.com/@Confluent/playlists)  
