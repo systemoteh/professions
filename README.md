@@ -1,5 +1,7 @@
 # Solution Architect
 
+[Как подготовиться и пройти System Design Interview](https://habr.com/ru/companies/spring_aio/articles/903542/)
+
 [26 шаблонов проектирования](https://mcs-mail-ru.turbopages.org/mcs.mail.ru/s/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki)
 
 [Обзор паттернов интеграции микросервисов](https://www.youtube.com/watch?v=7LtRDpELj1k)
