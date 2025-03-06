@@ -40,7 +40,10 @@
 [Certified Kubernetes Application Developer (CKAD) + практический опыт](https://rotoro.cloud/ld-courses/certified-kubernetes-application-developer-ckad-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)
 [Certified Kubernetes Security Specialist (CKS) + практический опыт](https://rotoro.cloud/ld-courses/certified-kubernetes-security-specialist-cks-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)
 
-[Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)  
+[Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+[Среда разработки на базе k3s и набор полезных приложений](https://www.youtube.com/playlist?list=PLmxqUDFl0XM5ROoVYIsuoBe6oKYkgLzzO)
+[Kubernetes. Артур Крюков](https://www.youtube.com/playlist?list=PLmxqUDFl0XM6pr2y6tK51cHOFajhFsWG8)
+
 
 [YoDo. Чат-бот - учитель. Научит Linux и DevOPS](https://yodo.im/#courses)  
 
