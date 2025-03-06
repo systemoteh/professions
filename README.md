@@ -79,6 +79,7 @@
 
 [HA-cluster](https://www.youtube.com/playlist?list=PLprvDkBQwz6ZZPwKwPzZGmveKQ5weIe_r)
 
+[Ментальная модель Kafka](https://my.rebrainme.com/video/843?course=kafka-by-rebrain)
 [Kafka Live Coding (Alfa Bank)](https://cloud.mail.ru/public/ZDu8/ucBwqrWjn)  
 
 [Confluent. Kafka playlists](https://www.youtube.com/@Confluent/playlists)  
