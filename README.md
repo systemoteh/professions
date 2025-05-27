@@ -61,7 +61,7 @@
 
 [Oracle SQL and PL/SQL Optimization for Developers](https://oracle.readthedocs.io/en/latest/index.html)
 
-[StringConcat](https://howto.stringconcat.com/#courses)  
+[StringConcat](https://howto.stringconcat.ru/)  
 
 [KARPOV.COURSES SYSTEM DESIGN == ПРОЕКТИРОВАНИЕ СИСТЕМ КАК В BIG TECH КОМПАНИИ](https://karpov.courses/systemdesign)    
 
