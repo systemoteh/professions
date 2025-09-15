@@ -92,6 +92,7 @@
 [Kafka Streams Tutorials | Kafka Streams 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s)  
 [Kafka Connect Tutorials | Kafka Connect 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm)  
 
+[Proxmox VE: полный курс](https://realmanual.ru/student/courses/3ade581a-b698-4460-b16d-8b291582e9ea/lessons)
 
 
 # Cybersecurity
