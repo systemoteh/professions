@@ -53,6 +53,8 @@
 
 [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)  
 
+[Системный анализ и проектирование](https://stepik.org/course/236467/promo#toc)
+
 [Масштабирование базы данных через шардирование и партиционирование](https://habr.com/ru/company/oleg-bunin/blog/309330/)  
 
 [Архитектор высоких нагрузок](https://rebrainme.com/highload/?utm_medium=cpc&utm_source=yandex&utm_campaign=search_wsplanet%7C44541559&utm_term=высоконагруженные%20приложения&utm_content=4710236612&placement=none&yclid=6922368541419164666)  
@@ -93,6 +95,7 @@
 [Kafka Connect Tutorials | Kafka Connect 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm)  
 
 [Proxmox VE: полный курс](https://realmanual.ru/student/courses/3ade581a-b698-4460-b16d-8b291582e9ea/lessons)
+[Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
 [Terraform + Proxmox: практический курс](https://stepik.org/course/238385/promo)
 
 
