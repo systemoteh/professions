@@ -81,6 +81,8 @@
 [Postgres Professional. Учебный курс «DEV1. Разработка серверной части приложений PostgreSQL 12. Базовый курс»](https://postgrespro.ru/education/courses/DEV1)   
 [Postgres Professional. Учебный курс «DEV2. Разработка серверной части приложений PostgreSQL 12. Расширенный курс»](https://postgrespro.ru/education/courses/DEV2)  
 
+[Оптимизация запросов в PostgreSQL | Домбровская Г. Р., Новиков Борис](https://www.ozon.ru/product/optimizatsiya-zaprosov-v-postgresql-dombrovskaya-g-r-novikov-boris-1798385340/?at=08tYVk94JcPgE1jniGKG1zMcxVnqvkiqknVmyTjg31l4)
+
 [Cluster Postgres](https://www.youtube.com/playlist?list=PLprvDkBQwz6awbdy8uLuAuYn883BbqMGE)
 [Построение отказоустойчивого кластера PostgreSQL](https://its.1c.ru/db/metod8dev/content/5971/hdoc)
 
@@ -93,6 +95,8 @@
 [Apache Kafka Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)  
 [Kafka Streams Tutorials | Kafka Streams 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s)  
 [Kafka Connect Tutorials | Kafka Connect 101 (2023)](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm)  
+
+[Онлайн школа RealManual](https://realmanual.ru/public/products)
 
 [Proxmox VE: полный курс](https://realmanual.ru/student/courses/3ade581a-b698-4460-b16d-8b291582e9ea/lessons)
 [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
