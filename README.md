@@ -24,6 +24,8 @@
 
 [Разработчик, или от Мидла до Сеньора](https://PL8D2P0ruohODJn1VYz1mMd1o2iA791YWCwww.youtube.com/watch?v=bTRR-0v_Cug&list=)  
 
+[Otus](https://otus.ru/)
+
 [Slurm](https://edu.slurm.io/)  
 
 [Rebrain](https://rebrainme.com)  
