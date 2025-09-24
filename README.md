@@ -85,6 +85,8 @@
 
 [Оптимизация запросов в PostgreSQL | Домбровская Г. Р., Новиков Борис](https://www.ozon.ru/product/optimizatsiya-zaprosov-v-postgresql-dombrovskaya-g-r-novikov-boris-1798385340/?at=08tYVk94JcPgE1jniGKG1zMcxVnqvkiqknVmyTjg31l4)
 
+[PostgresSQL Clustering](https://technotim.live/posts/postgresql-high-availability/)
+
 [Cluster Postgres](https://www.youtube.com/playlist?list=PLprvDkBQwz6awbdy8uLuAuYn883BbqMGE)
 [Построение отказоустойчивого кластера PostgreSQL](https://its.1c.ru/db/metod8dev/content/5971/hdoc)
 
