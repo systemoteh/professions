@@ -189,6 +189,8 @@ https://mkyong.com/all-tutorials-on-mkyong-com
 Jackrutorial
 https://www.jackrutorial.com/search/label/spring%20boot%20tutorial
 
+Уголок сельского джависта
+https://www.youtube.com/@shurik_codes/playlists
 
 
 # Team lead
