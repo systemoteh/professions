@@ -108,6 +108,8 @@
 [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
 [Terraform + Proxmox: практический курс](https://stepik.org/course/238385/promo)
 
+[LabEx. Практические лабораторные работы](https://labex.io/ru/learn)
+
 
 # Cybersecurity
 
