@@ -96,6 +96,7 @@
 [Kafka Live Coding (Alfa Bank)](https://cloud.mail.ru/public/ZDu8/ucBwqrWjn)  
 
 [Apache Kafka Java: Продвинутый](https://stepik.org/course/243796/promo)
+[Grafana & Prometheus: Глубокое погружение](https://stepik.org/course/254334/promo)
 
 [Confluent. Kafka playlists](https://www.youtube.com/@Confluent/playlists)  
 [Apache Kafka Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)  
