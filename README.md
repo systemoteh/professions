@@ -218,6 +218,9 @@ https://podlodka.io/crew-records
 YouTube my playlist
 https://m.youtube.com/feed/library
 
+Организованное программирование | Кирилл Мокевнин
+https://rutube.ru/channel/35573563/videos/
+
 Slurm
 https://edu.slurm.io/courses/soft_skills_2
 
