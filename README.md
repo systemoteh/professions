@@ -164,8 +164,12 @@ https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
 
 Zaur Tregulov Заур Трегулов
 https://m.youtube.com/@programaniya/playlists
+https://stepik.org/users/zaurtregulov/teach
 https://stepik.org/users/478344462/
 https://www.udemy.com/user/zaur-tregulov/
+
+Pragmatic Programmer
+https://stepik.org/users/612208117/teach
 
 Eugene Suleimanov (Примеры приложений)
 https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
@@ -196,6 +200,9 @@ https://www.jackrutorial.com/search/label/spring%20boot%20tutorial
 
 Уголок сельского джависта
 https://www.youtube.com/@shurik_codes/playlists
+
+simulative
+https://app.simulative.ru/profile/free
 
 
 # Team lead
