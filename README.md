@@ -75,6 +75,9 @@
 
 [Data Egret](https://github.com/dataegret/pg-utils)  
 
+[PostgreSQL Professional]
+(https://postgrespro.ru/education)
+
 [PostgreSQL Professional](https://postgrespro.ru/education/courses)
 [Postgres Professional. Учебный курс «DBA1. Администрирование PostgreSQL 13. Базовый курс»](https://postgrespro.ru/education/courses/DBA1)  
 [Postgres Professional. Учебный курс «DBA2. Администрирование PostgreSQL 13. Настройка и мониторинг»](https://postgrespro.ru/education/courses/DBA2)  
