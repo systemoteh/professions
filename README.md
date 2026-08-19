@@ -107,7 +107,10 @@
 
 [Онлайн школа RealManual](https://realmanual.ru/public/products)
 
-[Proxmox VE: полный курс](https://realmanual.ru/student/courses/3ade581a-b698-4460-b16d-8b291582e9ea/lessons)
+[Школа ДевОпсов](https://xn--80aeagf1ahxfaky5f.xn--p1ai/)
+
+[Proxmox с 0 до 100%. Всё, что нужно знать!](https://www.youtube.com/watch?v=PPln5TFQDQ4)
+[Proxmox VE: полный курс](https://xn--80aeagf1ahxfaky5f.xn--p1ai/courses/proxmox-ve-polnyj-kurs)
 [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
 [Terraform + Proxmox: практический курс](https://stepik.org/course/238385/promo)
 
